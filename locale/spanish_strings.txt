@@ -1,0 +1,115 @@
+STRINGTABLE 
+BEGIN
+    IDS_STRING0             "Corrigiendo imagen...";
+    IDS_STRING1             "Por favor reinicie PTLens para implementar los cambios"
+    IDS_STRING2             "Error: no se puede encontrar la función %s en PTLensLibrary"
+    IDS_STRING3             "Error: no se puede encontrar el archivo PTLensLibrary"
+    IDS_STRING4             "Error: se necesita la versión PTLens.dat %d.%d, existe la versión %d.%d"
+    IDS_STRING5             "Error: archivo %s, línea %d, formato inválido: %s"
+    IDS_STRING6             "Error: archivo %s, línea %d, ausente: %s"
+    IDS_STRING7             "Error: archivo %s, línea %d, estado inválido: %s"
+    IDS_STRING8             "Error: no se puede abrir el archivo %s"
+    IDS_STRING9             "Seleccione OK y luego diríjase al archivo %s"
+    IDS_STRING10            "Operación cancelada"
+    IDS_STRING11            "Detectar cámara"
+    IDS_STRING12            "Detectar lentes"
+    IDS_STRING13            "Distancia focal no calibrada"
+    IDS_STRING14            "Parámetros"
+    IDS_STRING15            "Archivo no válido: %s, código=%d"
+END
+
+STRINGTABLE 
+BEGIN
+    IDS_STRING16            "Detectar distancia focal"
+    IDS_STRING17            "Vertical"
+    IDS_STRING18            "Cámara no se encuentra en la base de datos"
+    IDS_STRING19            "Lente no se encuentra en la base de datos"
+    IDS_STRING20            "Sin información EXIF. Seleccione un perfil."
+    IDS_STRING21            "Horizontal"
+    IDS_STRING22            "Rojo - Cian"
+    IDS_STRING23            "Azul - Amarillo"
+    IDS_STRING24            "distancia focal"
+    IDS_STRING25            "distancia focal (%s - %s)"
+    IDS_STRING26            "Versión: %s"
+    IDS_STRING27            "Versión: desconocida"
+    IDS_STRING28            "Ubicación: %s"
+    IDS_STRING29            "Ubicación: desconocida"
+    IDS_STRING30            "OK"
+    IDS_STRING31            "Cancelar"
+END
+
+STRINGTABLE 
+BEGIN
+    IDS_STRING32            "Preparar"
+    IDS_STRING33            "Modelo"
+    IDS_STRING34            "Lente"
+    IDS_STRING35            "Aberración cromática"
+    IDS_STRING36            "Opciones"
+    IDS_STRING37            "Restablecer"
+    IDS_STRING38            "Restablecer todo"
+    IDS_STRING39            "Viñeteado"
+    IDS_STRING40            "Corregir"
+    IDS_STRING41            "Distorsión"
+    IDS_STRING42            "Vista preliminar"
+    IDS_STRING43            "Cantidad"
+    IDS_STRING44            "Punto intermedio"
+    IDS_STRING45            "Preferencias"
+    IDS_STRING46            "Mostrar siempre cuadro de diálogo"
+    IDS_STRING47            "Leer siempre la base de datos"
+END
+
+STRINGTABLE 
+BEGIN
+    IDS_STRING48            "Cámara detecta el conversor"
+    IDS_STRING49            "Cambiar el tamaño para eliminar los bordes negros en aquellas imágenes con efecto de distorsión de cojín" on images"
+    IDS_STRING50            "Base de datos"
+    IDS_STRING51            "Examinar"
+    IDS_STRING52            "Escala"
+    IDS_STRING53            "Perspectiva"
+    IDS_STRING54            "Idioma"
+    IDS_STRING55            "Cambiar"
+    IDS_STRING56            "Elegir lentes"
+    IDS_STRING57            "Zoom"
+    IDS_STRING58            "Consejo: Presione la tecla Alt mientras mueve los deslizadores CA."
+    IDS_STRING59            "Ojo de pez"
+    IDS_STRING60            "Recortar"
+    IDS_STRING61            "Rotar"
+    IDS_STRING62            "Horiz."
+    IDS_STRING63            "Vert."
+END
+
+STRINGTABLE 
+BEGIN
+    IDS_STRING64            "Emplear"
+    IDS_STRING65            "Ver"
+    IDS_STRING66            "Salir"
+    IDS_STRING67            "Directorio"
+    IDS_STRING68            "Editor externo"   // como aparece en el cuadro de diálogo Opciones
+    IDS_STRING69            "Calidad JPEG"
+    IDS_STRING70            "Sufijo"
+    IDS_STRING71            "Elegir el archivo ejecutable (.exe)"
+    IDS_STRING72            "Por favor seleccione un editor en el cuadro de diálogo Opciones"
+    IDS_STRING73            "Eliminar"
+    IDS_STRING74            "Eliminar los archivos seleccionados del disco rígido?"
+    IDS_STRING75            "Trabajo por lotes interrumpido"
+    IDS_STRING76            "Ayuda"
+    IDS_STRING77            "Acerca de"
+    IDS_STRING78            "Cuadrícula"
+    IDS_STRING79            "Imagen"
+END
+
+STRINGTABLE 
+BEGIN
+    IDS_STRING80            "Archivo"
+    IDS_STRING81            "Herramientas"
+    IDS_STRING82            "Abrir como %s"
+    IDS_STRING83            "Ayuda PTLens"
+    IDS_STRING84            "Editor externo"  // como aparece en Archivo > Abrir en el visualizador externo
+    IDS_STRING85            "Desactivar"
+    IDS_STRING86            "Tonel-Distorsión de cojín"
+    IDS_STRING87            "Procesadores"
+    IDS_STRING88            "Por favor suministre su licencia"
+    IDS_STRING89            "Seleccionar todo"
+    IDS_STRING90            "Actualizar"
+    IDS_STRING91            "Reajustar los controles para cada imagen"
+END
