@@ -1,0 +1,115 @@
+STRINGTABLE 
+BEGIN
+    IDS_STRING0             "Correcting image...";
+    IDS_STRING1             "Please restart PTLens to apply changes"
+    IDS_STRING2             "Error: unable to find function %s in PTLensLibrary"
+    IDS_STRING3             "Error: unable to find file PTLensLibrary"
+    IDS_STRING4             "Error: PTLens.dat version %d.%d required, found version %d.%d"
+    IDS_STRING5             "Error: file %s, line %d, invalid format: %s"
+    IDS_STRING6             "Error: file %s, line %d, missing: %s"
+    IDS_STRING7             "Error: file %s, line %d, invalid statement: %s"
+    IDS_STRING8             "Error: unable to open file %s"
+    IDS_STRING9             "Choose OK then navigate to file %s"
+    IDS_STRING10            "Operation canceled"
+    IDS_STRING11            "Detect camera"
+    IDS_STRING12            "Detect lens"
+    IDS_STRING13            "Focal length not calibrated"
+    IDS_STRING14            "Parameters"
+    IDS_STRING15            "Invalid file: %s, code=%d"
+END
+
+STRINGTABLE 
+BEGIN
+    IDS_STRING16            "Detect focal length"
+    IDS_STRING17            "Vertical"
+    IDS_STRING18            "Camera not found in database"
+    IDS_STRING19            "Lens not found in database"
+    IDS_STRING20            "No EXIF info. Choose profile."
+    IDS_STRING21            "Horizontal"
+    IDS_STRING22            "Red - Cyan"
+    IDS_STRING23            "Blue - Yellow"
+    IDS_STRING24            "focal length"
+    IDS_STRING25            "focal length (%s - %s)"
+    IDS_STRING26            "Version: %s"
+    IDS_STRING27            "Version: unknown"
+    IDS_STRING28            "Location: %s"
+    IDS_STRING29            "Location: unknown"
+    IDS_STRING30            "OK"
+    IDS_STRING31            "Cancel"
+END
+
+STRINGTABLE 
+BEGIN
+    IDS_STRING32            "Make"
+    IDS_STRING33            "Model"
+    IDS_STRING34            "Lens"
+    IDS_STRING35            "Chromatic Aberration"
+    IDS_STRING36            "Options"
+    IDS_STRING37            "Reset"
+    IDS_STRING38            "Reset All"
+    IDS_STRING39            "Vignetting"
+    IDS_STRING40            "Correct"
+    IDS_STRING41            "Distortion"
+    IDS_STRING42            "Preview"
+    IDS_STRING43            "Amount"
+    IDS_STRING44            "Midpoint"
+    IDS_STRING45            "Preferences"
+    IDS_STRING46            "Always display dialog"
+    IDS_STRING47            "Always read database"
+END
+
+STRINGTABLE 
+BEGIN
+    IDS_STRING48            "Camera detects converter"
+    IDS_STRING49            "Resize to remove black edges from pincushion images"
+    IDS_STRING50            "Database"
+    IDS_STRING51            "Browse"
+    IDS_STRING52            "Scale"
+    IDS_STRING53            "Perspective"
+    IDS_STRING54            "Language"
+    IDS_STRING55            "Shift"
+    IDS_STRING56            "Select lens"
+    IDS_STRING57            "Zoom"
+    IDS_STRING58            "Tip: Press Alt key while moving CA sliders."
+    IDS_STRING59            "Fisheye"
+    IDS_STRING60            "Crop"
+    IDS_STRING61            "Rotate"
+    IDS_STRING62            "Horiz."
+    IDS_STRING63            "Vert."
+END
+
+STRINGTABLE 
+BEGIN
+    IDS_STRING64            "Apply"
+    IDS_STRING65            "View"
+    IDS_STRING66            "Exit"
+    IDS_STRING67            "Directory"
+    IDS_STRING68            "External editor"   // as appears in Options dialog
+    IDS_STRING69            "JPEG Quality"
+    IDS_STRING70            "Suffix"
+    IDS_STRING71            "Choose executable (.exe) file"
+    IDS_STRING72            "Please select an editor in Options dialog"
+    IDS_STRING73            "Delete"
+    IDS_STRING74            "Delete selected files from disk?"
+    IDS_STRING75            "Batch job aborted"
+    IDS_STRING76            "Help"
+    IDS_STRING77            "About"
+    IDS_STRING78            "Grid"
+    IDS_STRING79            "Image"
+END
+
+STRINGTABLE 
+BEGIN
+    IDS_STRING80            "File"
+    IDS_STRING81            "Tools"
+    IDS_STRING82            "Open in %s"
+    IDS_STRING83            "PTLens Help"
+    IDS_STRING84            "external editor"  // as appears in File > Open in external viewer
+    IDS_STRING85            "Disable"
+    IDS_STRING86            "Barrel-Pincushion"
+    IDS_STRING87            "Processors"
+    IDS_STRING88            "Please install license"
+    IDS_STRING89            "Select All"
+    IDS_STRING90            "Refresh"
+    IDS_STRING91            "Reset controls for each image"
+END
